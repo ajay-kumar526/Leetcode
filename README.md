@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/ajay-kumar526/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/ajay-kumar526/Leetcode/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
