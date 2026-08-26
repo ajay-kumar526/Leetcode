@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ajay-kumar526/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ajay-kumar526/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [2029-stone-game-ix](https://github.com/ajay-kumar526/Leetcode/tree/master/2029-stone-game-ix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ajay-kumar526/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ajay-kumar526/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/ajay-kumar526/Leetcode/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/ajay-kumar526/Leetcode/tree/master/2235-add-two-integers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ajay-kumar526/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
@@ -102,4 +104,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ajay-kumar526/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+## Greedy
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/ajay-kumar526/Leetcode/tree/master/2029-stone-game-ix) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/ajay-kumar526/Leetcode/tree/master/2029-stone-game-ix) |
+## Counting
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/ajay-kumar526/Leetcode/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/ajay-kumar526/Leetcode/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/ajay-kumar526/Leetcode/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/ajay-kumar526/Leetcode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
