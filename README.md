@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ajay-kumar526/Leetcode/tree/master/0002-add-two-numbers) |
 | [2029-stone-game-ix](https://github.com/ajay-kumar526/Leetcode/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/ajay-kumar526/Leetcode/tree/master/2235-add-two-integers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ajay-kumar526/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ajay-kumar526/Leetcode/tree/master/0002-add-two-numbers) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ajay-kumar526/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Hash Table
 |  |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ajay-kumar526/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ajay-kumar526/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
