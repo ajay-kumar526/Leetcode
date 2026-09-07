@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/ajay-kumar526/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ajay-kumar526/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ajay-kumar526/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/ajay-kumar526/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ajay-kumar526/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ajay-kumar526/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/ajay-kumar526/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ajay-kumar526/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ajay-kumar526/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/ajay-kumar526/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/ajay-kumar526/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ajay-kumar526/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ajay-kumar526/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/ajay-kumar526/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ajay-kumar526/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ajay-kumar526/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Stack
@@ -157,4 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/ajay-kumar526/Leetcode/tree/master/3903-smallest-stable-index-i) |
+## String
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/ajay-kumar526/Leetcode/tree/master/0257-binary-tree-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/ajay-kumar526/Leetcode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
