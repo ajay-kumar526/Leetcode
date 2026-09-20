@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ajay-kumar526/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ajay-kumar526/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ajay-kumar526/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ajay-kumar526/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2029-stone-game-ix](https://github.com/ajay-kumar526/Leetcode/tree/master/2029-stone-game-ix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ajay-kumar526/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ajay-kumar526/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ajay-kumar526/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |
