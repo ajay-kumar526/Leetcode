@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ajay-kumar526/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ajay-kumar526/Leetcode/tree/master/0035-search-insert-position) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ajay-kumar526/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ajay-kumar526/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2029-stone-game-ix](https://github.com/ajay-kumar526/Leetcode/tree/master/2029-stone-game-ix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ajay-kumar526/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ajay-kumar526/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ajay-kumar526/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ajay-kumar526/Leetcode/tree/master/0035-search-insert-position) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ajay-kumar526/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ajay-kumar526/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -197,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ajay-kumar526/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ajay-kumar526/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
