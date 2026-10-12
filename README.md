@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ajay-kumar526/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/ajay-kumar526/Leetcode/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/ajay-kumar526/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0796-rotate-string](https://github.com/ajay-kumar526/Leetcode/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ajay-kumar526/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Backtracking
 |  |
@@ -242,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ajay-kumar526/Leetcode/tree/master/0053-maximum-subarray) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/ajay-kumar526/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
