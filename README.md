@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ajay-kumar526/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ajay-kumar526/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ajay-kumar526/Leetcode/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/ajay-kumar526/Leetcode/tree/master/0053-maximum-subarray) |
 | [0162-find-peak-element](https://github.com/ajay-kumar526/Leetcode/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/ajay-kumar526/Leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ajay-kumar526/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ajay-kumar526/Leetcode/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ajay-kumar526/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
@@ -236,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/ajay-kumar526/Leetcode/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/ajay-kumar526/Leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ajay-kumar526/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ajay-kumar526/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
