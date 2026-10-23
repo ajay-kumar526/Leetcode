@@ -1,0 +1,32 @@
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
+
+ //1 Brute force
+ //length find karo then n/2 if even length or n+1/2 if odd length
+
+ //Optimal
+ //Slow and fast pointer..
+class Solution {
+public:
+    ListNode* middleNode(ListNode* head) {
+        ListNode*mid;
+        ListNode* slow= head;
+        ListNode* fast=head;
+
+        while(fast!=NULL && fast->next!=NULL){
+        slow=slow->next;
+        fast=fast->next->next;
+        }
+        return slow;
+        
+
+    }
+};
