@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ajay-kumar526/Leetcode/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/ajay-kumar526/Leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ajay-kumar526/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/ajay-kumar526/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0560-subarray-sum-equals-k](https://github.com/ajay-kumar526/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ajay-kumar526/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2029-stone-game-ix](https://github.com/ajay-kumar526/Leetcode/tree/master/2029-stone-game-ix) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ajay-kumar526/Leetcode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/ajay-kumar526/Leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ajay-kumar526/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/ajay-kumar526/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ajay-kumar526/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
 |  |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ajay-kumar526/Leetcode/tree/master/0053-maximum-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/ajay-kumar526/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## String Matching
 |  |
 | ------- |
@@ -264,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ajay-kumar526/Leetcode/tree/master/0014-longest-common-prefix) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/ajay-kumar526/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
