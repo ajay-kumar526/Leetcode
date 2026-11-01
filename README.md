@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ajay-kumar526/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ajay-kumar526/Leetcode/tree/master/0053-maximum-subarray) |
 | [0162-find-peak-element](https://github.com/ajay-kumar526/Leetcode/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/ajay-kumar526/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ajay-kumar526/Leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ajay-kumar526/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ajay-kumar526/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ajay-kumar526/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/ajay-kumar526/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ajay-kumar526/Leetcode/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/ajay-kumar526/Leetcode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/ajay-kumar526/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/ajay-kumar526/Leetcode/tree/master/0509-fibonacci-number) |
 ## String Matching
