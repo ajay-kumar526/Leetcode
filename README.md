@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ajay-kumar526/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0518-coin-change-ii](https://github.com/ajay-kumar526/Leetcode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ajay-kumar526/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/ajay-kumar526/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ajay-kumar526/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2029-stone-game-ix](https://github.com/ajay-kumar526/Leetcode/tree/master/2029-stone-game-ix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ajay-kumar526/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ajay-kumar526/Leetcode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/ajay-kumar526/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/ajay-kumar526/Leetcode/tree/master/0518-coin-change-ii) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/ajay-kumar526/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/ajay-kumar526/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## String Matching
 |  |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ajay-kumar526/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/ajay-kumar526/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Manacher
 |  |
 | ------- |
@@ -330,4 +333,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/ajay-kumar526/Leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/ajay-kumar526/Leetcode/tree/master/0518-coin-change-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/ajay-kumar526/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/ajay-kumar526/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
